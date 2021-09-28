@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 I'm a 18 years old guy who tries to learn programming and Unreal Engine.
-For now working at [Aleph](https://github.com/xraykeex/Aleph/), [Decay](https://github.com/xwhiteex/Decay) & [vidar-bot](https://github.com/xwhiteex/vidar-bot)
+
+For now working at [Aleph](https://github.com/xraykeex/Aleph/), [Decay](https://github.com/xwhiteex/Decay) & [vidar-bot](https://github.com/xwhiteex/vidar-bot).
 
 <!--
 **xwhiteex/xwhiteex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
