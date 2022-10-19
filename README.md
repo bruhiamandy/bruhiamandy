@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-𝘐'𝘮 𝘢 𝘣𝘦𝘨𝘪𝘯𝘯𝘦𝘳 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘦𝘳 (𝘩𝘦/𝘩𝘪𝘮) 𝘸𝘩𝘰 𝘸𝘰𝘳𝘬𝘴 𝘰𝘯 [𝘈𝘭𝘦𝘱𝘩](https://github.com/xraykeex/Aleph/), [𝘋𝘦𝘤𝘢𝘺](https://github.com/xwhiteex/decay) & [𝘷𝘪𝘥𝘢𝘳-𝘣𝘰𝘵](https://github.com/xwhiteex/vidar-bot).
+𝘐'𝘮 𝘢 𝘣𝘦𝘨𝘪𝘯𝘯𝘦𝘳 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘦𝘳 (𝘩𝘦/𝘩𝘪𝘮) 𝘸𝘩𝘰 𝘸𝘰𝘳𝘬𝘴 𝘰𝘯 [𝘋𝘦𝘤𝘢𝘺](https://github.com/xwhiteex/decay) & [𝘷𝘪𝘥𝘢𝘳-𝘣𝘰𝘵](https://github.com/xwhiteex/vidar-bot).
 
 𝘏𝘦𝘳𝘦 𝘢𝘳𝘦 𝘴𝘰𝘮𝘦 𝘶𝘴𝘦𝘧𝘶𝘭 𝘗𝘰𝘸𝘦𝘳𝘚𝘩𝘦𝘭𝘭 𝘴𝘤𝘳𝘪𝘱𝘵𝘴 𝘵𝘩𝘢𝘵 𝘮𝘪𝘨𝘩𝘵 𝘩𝘦𝘭𝘱 𝘺𝘰𝘶: [𝘤𝘭𝘦𝘢𝘯𝘳](https://github.com/xwhiteex/cleanr) & [𝘢𝘶𝘵𝘰𝘮𝘢𝘵𝘳](https://github.com/xwhiteex/automatr).
 
-𝘠𝘰𝘶 𝘤𝘢𝘯 𝘳𝘦𝘢𝘤𝘩 𝘮𝘦 𝘰𝘯 [𝘛𝘸𝘪𝘵𝘵𝘦𝘳](https://twitter.com/whiiteex) 𝘢𝘯𝘥 [𝘛𝘸𝘪𝘵𝘤𝘩](https://www.twitch.tv/whiteex_).
+𝘠𝘰𝘶 𝘤𝘢𝘯 𝘳𝘦𝘢𝘤𝘩 𝘮𝘦 𝘰𝘯 [𝘛𝘸𝘪𝘵𝘵𝘦𝘳](https://twitter.com/itswhiteline) 𝘢𝘯𝘥 [𝘛𝘸𝘪𝘵𝘤𝘩](https://www.twitch.tv/whiteex_).
 
 <!--
 **xwhiteex/xwhiteex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
